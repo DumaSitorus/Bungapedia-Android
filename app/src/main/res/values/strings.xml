@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">BungaPedia</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share</string>
+    <string name="flower_name">Nama Bunga</string>
+    <string name="description">Deskripsi</string>
+    <string name="developer_name">Timmy the Sheep</string>
+    <string name="developer_email">timmy.sheep@gmail.com</string>
+    <string name="welcome">Welcome..</string>
+    <string-array name="data_name">
+        <item>Bunga Adenium</item>
+        <item>Bunga Aglaonema</item>
+        <item>Bunga Alamanda</item>
+        <item>Bunga Alstroemeria</item>
+        <item>Bunga Amaryllis</item>
+        <item>Bunga Ammi</item>
+        <item>Bunga Anggrek</item>
+        <item>Bunga Anthurrium</item>
+        <item>Bunga Anyelir</item>
+        <item>Bunga Asclepias</item>
+        <item>Bunga Astilbe</item>
+        <item>Bunga Astrantia</item>
+        <item>Bunga Baby Breath Gypsophila</item>
+        <item>Bunga Bergenia</item>
+        <item>Bunga Camelia</item>
+        <item>Bunga Coreopsis</item>
+        <item>Bunga Cosmos</item>
+        <item>Bunga Dahlia</item>
+        <item>Bunga Daisy</item>
+        <item>Bunga Euphorbia</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Adenium atau di Indonesia dikenal juga dengan sebutan Kamboja Jepang (berbeda dengan bunga kamboja yang sering dijumpai di area pemakaman meskipun keduanya adalah jenis Plumeria). Nama adenium sendiri diambil dari salah satu daerah asalnya yakni Aden, Ibukota Yaman. Ciri khas dari bunga adenium adalah bagian batang bawahnya tumbuh menyerupai umbi dan lebih pendek jika dibandingkan dengan bunga kamboja. Mahkota bunganya berwarna merah, pink, ungu, kuning, jingga dengan perpaduan putih.</item>
+        <item>Aglaonema, atau yang sering dikenal dengan Chinese Evergreen atau Sri Rejeki, adalah tanaman hias yang terkenal karena keindahan daunnya. Tanaman ini memiliki daun yang lebar dengan corak dan warna yang sangat beragam, mulai dari hijau, perak, merah, hingga kombinasi warna-warna tersebut. Aglaonema populer sebagai tanaman hias indoor karena perawatannya yang mudah dan kemampuannya beradaptasi dengan kondisi cahaya rendah. Selain tampilannya yang estetis, tanaman ini juga dikenal dapat membantu meningkatkan kualitas udara di dalam ruangan. Beberapa jenis Aglaonema bahkan memiliki daun berwarna merah atau pink, yang menambah daya tariknya sebagai dekorasi rumah. Bentuk daun yang unik dan warnanya yang mencolok menjadikannya pilihan favorit bagi pecinta tanaman hias. Tanaman ini juga cocok untuk pemula, karena tidak memerlukan perawatan intensif. Berbagai jenis Aglaonema tersedia di pasaran, dengan ukuran dan variasi yang sesuai dengan selera dan kebutuhan penghias ruangan.</item>
+        <item>Bunga Alamanda, yang juga dikenal sebagai bunga lonceng kuning, terompet emas, dan buttercup, memiliki keindahan khas yang menawan. Seperti namanya, bunga ini mekar dengan warna-warna cerah yang memikat. Warna yang paling umum dijumpai adalah kuning, namun varietas lain seperti jingga, merah, dan ungu juga tidak kalah menarik. Mekarnya bunga Alamanda memberikan pesona tersendiri, terutama karena bentuk dan warna yang mencolok. Bunga ini sering dijadikan tanaman hias karena keindahan yang dimilikinya. Tidak hanya cantik, alamanda juga memiliki daya tarik unik yang membuatnya populer di kalangan pecinta tanaman. Kombinasi warna dan bentuknya menjadikannya salah satu bunga tropis yang paling disukai.</item>
+        <item>Bunga Alstroemeria, yang dikenal sebagai Peruvian Lily, merupakan bunga dengan variasi warna yang menakjubkan. Di Indonesia, bunga ini sering dijuluki dengan nama yang sama. Warna-warna bunganya sangat beragam, mulai dari jingga, merah, ungu, hingga kuning, bahkan ada yang merupakan perpaduan dari berbagai warna. Keindahannya membuat bunga ini digemari di banyak negara. Alstroemeria bahkan dijadikan bunga resmi di beberapa negara di luar negeri. Popularitasnya tidak hanya karena kecantikannya, tetapi juga karena makna simbolis yang sering dikaitkan dengan persahabatan dan dedikasi. Bunga ini juga sering digunakan dalam rangkaian bunga untuk berbagai acara istimewa.</item>
+        <item>Amaryllis adalah bunga yang terkenal karena keindahan bunganya yang besar dan mencolok. Coraknya yang memikat membuatnya sangat populer sebagai bunga hias. Biasanya, bunga ini sering dijadikan bunga potong dan diletakkan dalam vas kaca, karena tangkainya yang panjang dan elegan. Selain indah, bunga Amaryllis juga cukup mudah untuk diperbanyak. Metode perbanyakannya dilakukan melalui umbinya, yang dapat menghasilkan tanaman baru. Bunga ini sering menjadi pilihan dekorasi dalam berbagai acara dan ruangan. Pesona Amaryllis menjadikannya salah satu bunga favorit para pecinta tanaman hias.</item>
+        <item>Tanaman ini memiliki ciri khas bunga yang membentuk kelompok menyerupai renda, memberikan tampilan yang unik dan menarik. Bunga Ammi biasanya berwarna putih atau hijau, menambah sentuhan elegan pada penampilannya. Tangkainya yang panjang dan kokoh membuat bunga ini sering digunakan dalam berbagai rangkaian bunga, terutama untuk acara pernikahan. Keindahan bunga Ammi yang sederhana namun anggun menjadikannya favorit di kalangan perangkai bunga. Selain itu, bentuk bunganya yang menyerupai payung memberikan kesan lembut pada setiap rangkaian. Kombinasi warnanya yang netral membuatnya cocok dipadukan dengan berbagai jenis bunga lainnya. Inilah alasan mengapa Ammi sering hadir dalam dekorasi bertema alami dan romantis.</item>
+        <item>Anggrek, atau yang dikenal dengan nama orchid, memang layak menjadi salah satu bunga yang paling diburu oleh para pecinta tanaman hias. Keindahan bentuk, warna, dan corak bunganya mampu memikat hati siapa saja yang melihatnya. Setiap kelopaknya memiliki ciri khas yang unik, membuatnya terlihat eksotis dan elegan. Tak heran jika banyak kolektor tanaman hias berlomba-lomba untuk merawatnya. Anggrek juga memiliki daya tahan yang cukup baik, sehingga mampu berbunga dalam jangka waktu yang lama. Selain itu, variasi spesies dan hibridanya yang sangat banyak membuat pilihan anggrek semakin beragam. Dengan segala pesonanya, anggrek menjadi simbol kecantikan dan kesempurnaan dalam dunia tanaman hias.</item>
+        <item>Anthurium adalah salah satu bunga favorit karena keunikan bentuk daun dan bunganya. Bunganya memiliki bentuk hati yang khas, dengan tongkol yang muncul di tengah bunga. Warna bunga Anthurium umumnya mencakup merah, pink, dan putih. Keindahan bunga ini menjadikannya populer sebagai tanaman hias. Selain itu, daun Anthurium juga menarik perhatian karena teksturnya yang tebal dan berkilau. Bunga ini sering digunakan untuk dekorasi interior dan karangan bunga. Keunikan bentuk dan warna membuatnya sangat diminati oleh pecinta tanaman hias.</item>
+        <item>Bunga anyelir, atau dikenal juga sebagai teluki atau carnation, adalah tanaman hias yang populer dengan warna-warna mekarnya yang terang. Nama ilmiahnya adalah Dianthus caryophyllus, dan bunga ini sering dijadikan hiasan dalam rangkaian bunga. Mahkota bunganya terdiri dari lima petal yang tersusun secara zig-zag, memberikan bentuk unik pada setiap kelopak. Bunga ini dapat ditemukan dalam dua variasi utama, yaitu tipe single dengan satu lapisan kelopak, dan tipe double dengan banyak lapisan kelopak. Anyelir dikenal karena daya tahan mekarnya yang cukup lama setelah dipotong, menjadikannya pilihan populer untuk dekorasi. Selain kecantikannya, bunga ini juga memiliki aroma lembut yang menambah daya tariknya. Warna-warna cerah seperti merah, putih, dan pink membuatnya sangat diminati dalam berbagai acara.</item>
+        <item>Bunga Asclepias, atau dikenal sebagai milkweed, merupakan salah satu bunga penghasil nektar terbaik yang sangat disukai oleh serangga dan kupu-kupu. Bunga ini memiliki warna cerah yang beragam, mulai dari merah, kuning, jingga, hingga putih dan ungu. Selain keindahan warnanya, bunga Asclepias mekar secara bergerombol, menambah daya tarik visualnya. Karena kandungan nektarnya yang melimpah, bunga ini menjadi favorit bagi berbagai spesies penyerbuk. Kehadirannya di taman sering kali menarik lebih banyak kupu-kupu dan lebah. Asclepias juga terkenal sebagai tanaman inang bagi ulat kupu-kupu monarch. Bunga ini tidak hanya menarik secara visual, tetapi juga berperan penting dalam ekosistem.</item>
+        <item>Bunga Astible, yang juga dikenal sebagai false goat’s beard dan false spirea, merupakan tanaman hias yang banyak ditanam oleh tukang kebun di luar negeri. Tanaman ini terkenal karena daun dan bunganya yang rimbun, menciptakan tampilan yang menawan di taman. Salah satu ciri khasnya adalah bentuk bunga yang mekar membentuk segitiga mirip pagoda, menambah keindahan visual. Selain penampilannya yang menarik, bunga Astible juga memiliki aroma yang kuat dan menyenangkan, menjadikannya pilihan populer untuk taman yang ingin memberikan kesan harum. Tanaman ini biasanya ditanam sebagai tanaman pembatas, memberikan batasan yang elegan di antara area taman. Dengan perawatan yang tepat, bunga Astible dapat tumbuh subur dan memberikan warna serta keharuman sepanjang musim berbunga. Oleh karena itu, bunga Astible adalah tambahan yang berharga bagi koleksi tanaman hias mana pun.</item>
+        <item>Astrantia, yang juga dikenal sebagai Hattie’s pincushion dan Masterwort, adalah bunga yang memikat dengan keindahan unik. Tepal bunganya membentuk mahkota yang tersusun dengan sangat rapi dan menawan. Di tengah mahkota tersebut, terdapat pusat yang dihiasi dengan bulu-bulu halus, menyerupai sanggul yang elegan. Bunga ini sering kali menghiasi taman-taman dan kebun dengan warna-warna yang bervariasi, termasuk nuansa putih, merah muda, dan ungu. Keberadaannya menambah daya tarik visual, menjadikannya favorit di kalangan para pencinta tanaman. Astrantia juga memiliki nilai simbolis, sering dianggap sebagai lambang ketahanan dan keindahan yang abadi. Dengan keanggunannya, bunga ini berhasil mencuri perhatian dan memberikan kesan mendalam bagi siapa pun yang melihatnya.</item>
+        <item>Baby’s Breath, atau yang dikenal dengan nama ilmiah Gypsophila, adalah tanaman bunga yang sangat populer digunakan dalam buket bunga pengantin. Bunganya yang kecil dan berwarna pink atau putih menambah kesan anggun dan elegan pada setiap acara. Tanaman ini tidak hanya cantik, tetapi juga memiliki makna simbolis yang dalam, sering kali melambangkan cinta dan kesucian. Banyak orang memilih Baby’s Breath sebagai pelengkap dalam rangkaian bunga, karena kemampuannya untuk memberikan kesan ringan dan romantis. Selain itu, tanaman ini banyak dijumpai di luar negeri, terutama di Turki, di mana mereka tumbuh subur di ladang-ladang. Keberadaannya yang melimpah di negara-negara tersebut menjadikannya sebagai pilihan utama dalam industri florikultura. Dengan daya tariknya yang unik, Baby’s Breath terus menjadi favorit dalam berbagai kesempatan.</item>
+        <item>Bunga bergenia adalah tanaman berbunga yang berasal dari Asia Tengah, dikenal dengan bunga yang tumbuh dalam satu batang berwarna merah muda hingga ungu. Ciri khasnya adalah daunnya yang tumbuh dekat permukaan tanah dan memiliki lebar menyerupai kuping gajah. Tanaman ini sering dijadikan sebagai hiasan di taman karena keindahannya. Nama "bergenia" sendiri diambil dari nama ahli botani Jerman, Karl August von Bergen. Dengan penampilannya yang menarik, bunga bergenia menjadi pilihan populer di kalangan pecinta tanaman.</item>
+        <item>Seperti namanya, camelia menjadi salah satu tanaman bunga yang sangat cantik. Bunga ini tersebar dari Jepang hingga Indonesia. Memiliki mahkota khas bunga, mekar dengan ukuran yang besar dan sangat atraktif. Nama camelia diambil dari nama seorang ahli botani Yesuit Georg Joseph Kamel. Camelia sangat terkenal di seluruh kawasan Asia Timur. Dalam bahasa Cina dikenal sebagai cháhuā, tsubaki dalam bahasa Jepang, dan dongbaek-kkot dalam bahasa Korea.</item>
+        <item>Bunga Coreopsis, yang juga dikenal sebagai Tickseed, adalah tanaman bunga yang menarik perhatian dengan warna-warnanya yang mencolok. Biasanya, bunga ini memiliki dua warna yang berbeda dalam satu mahkota, dengan kelopak berwarna kuning dan pusat yang lebih gelap. Setiap bunga terdiri dari delapan tepal yang memiliki ujung bergerigi, menambah keunikan penampilannya. Selain keindahan visualnya, bunga Coreopsis juga dikenal mudah dirawat, sehingga sering dijadikan pilihan untuk taman dan kebun. Keberadaannya tidak hanya mempercantik ruang, tetapi juga menarik berbagai serangga penyerbuk, seperti kupu-kupu dan lebah.</item>
+        <item>Cosmos, atau bunga kenikir, adalah bunga hias yang dikenal karena warna-warnanya yang menarik, seperti ungu, pink, dan putih. Selain keindahannya, daun bunga ini memiliki aroma yang menyengat. Dalam tradisi kuliner, daun cosmos sering digunakan sebagai lalapan yang memberikan rasa segar pada hidangan. Selain itu, daun bunga ini juga dimanfaatkan dalam bidang obat-obatan dan kosmetik karena sifatnya yang bermanfaat. Dengan beragam kegunaan dan pesonanya, bunga cosmos menjadi salah satu pilihan populer dalam taman dan kebun.</item>
+        <item>Dahlia adalah jenis bunga yang erat kaitannya dengan bunga matahari, daisy, zinnia, dan krisan, sehingga seringkali membingungkan bagi banyak orang. Salah satu keunikan dahlia adalah kemampuannya untuk menampilkan beragam warna, menjadikannya bunga yang sangat menarik. Bunga ini sering dijadikan sebagai bunga potong karena keindahan dan ketahanannya. Dengan bentuk dan ukuran yang bervariasi, dahlia dapat mempercantik berbagai acara, mulai dari pernikahan hingga dekorasi rumah. Popularitasnya yang tinggi membuat dahlia menjadi salah satu pilihan favorit di kalangan pecinta bunga.</item>
+        <item>Bunga daisy yang paling umum ditemukan adalah varietas berwarna putih dengan inti bunga mencolok berwarna kuning. Tanaman ini, yang memiliki nama ilmiah Bellis perennis, merupakan salah satu jenis bunga yang sangat populer. Meskipun ukurannya kecil, daisy dapat tumbuh seragam dalam jumlah banyak. Hal ini menciptakan hamparan bunga yang sangat cantik dan menarik perhatian. Keindahan serta daya tariknya membuatnya menjadi pilihan favorit dalam taman dan pekarangan.</item>
+        <item>Bunga Euphorbia merupakan tanaman bunga yang memiliki banyak sekali spesies. Selain dijadikan sebagai tanaman hias, bunga Euphorbia juga dijadikan sebagai bahan obat-obatan. Bentuk daun dan warna bunganya bermacam-macam seperti kuning, ungu, hijau, hingga coklat. Ciri khas dari tanaman ini adalah batangnya lunak dan memiliki duri.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bunga_adenium</item>
+        <item>@drawable/bunga_aglaonema</item>
+        <item>@drawable/bunga_alamanda</item>
+        <item>@drawable/bunga_alstroemeria</item>
+        <item>@drawable/bunga_amaryllis</item>
+        <item>@drawable/bunga_ammi</item>
+        <item>@drawable/bunga_anggrek</item>
+        <item>@drawable/bunga_anthurrium</item>
+        <item>@drawable/bunga_anyelir</item>
+        <item>@drawable/bunga_asclepias</item>
+        <item>@drawable/bunga_astilbe</item>
+        <item>@drawable/bunga_astrantia</item>
+        <item>@drawable/bunga_babys_breath_gypsophila</item>
+        <item>@drawable/bunga_bergenia</item>
+        <item>@drawable/bunga_camelia</item>
+        <item>@drawable/bunga_coreopsis</item>
+        <item>@drawable/bunga_cosmos</item>
+        <item>@drawable/bunga_dahlia</item>
+        <item>@drawable/bunga_daisy</item>
+        <item>@drawable/bunga_euphorbia</item>
+    </integer-array>
+</resources>

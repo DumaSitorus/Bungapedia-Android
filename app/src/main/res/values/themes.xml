@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Bungapedia" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/hijau_tua</item>
+        <item name="colorOnPrimary">@color/hijau_mudah</item>
+
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="colorSurface">@color/white</item>
+        <item name="colorSurfaceVariant">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="android:statusBarColor">@color/hijau_tua</item>
+    </style>
+
+    <style name="welcomecolor">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Theme.Bungapedia" parent="Base.Theme.Bungapedia" />
+    <style name="SplashTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:background">@color/hijau_mudah</item>
+    </style>
+</resources>
